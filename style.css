@@ -1,0 +1,38 @@
+body
+{
+  background-color: rgb(248, 239, 186);
+}
+p
+{
+  font-size: 30px;
+  font-style: Times New Roman;
+  color:rgb(24, 44, 97);
+}
+pre
+{
+  font-size: 30px;
+  font-style: Times New Roman;
+  color:rgb(24, 44, 97);
+}
+li
+{
+  font-size: 30px;
+  font-style: Times New Roman;
+  color:rgb(24, 44, 97);
+}
+h1
+{
+  background-color:rgb(108, 211, 245);
+  color:rgb(171, 22, 22);
+  font-size: 60px;
+}
+h2
+{
+  color:rgb(109, 33, 79);
+  font-size: 30px;
+}
+table
+{
+  color:rgb(24, 44, 97);
+  font-size: 25px;
+}
